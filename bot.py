@@ -70,7 +70,8 @@ def main():
             proverka(weekday)
             time.sleep(60)
 
-    
+def week():
+    print('ssss')    
 
 if __name__ == '__main__':
     main()
